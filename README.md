@@ -1,4 +1,4 @@
-# portfolio (2020)
+# portfolio (2022)
 This is Portfolio Web application of me in 2022 that I have created using anime.js. Created Hover effect to make the page look attractive
 
-Deployed Link - http://127.0.0.1:5500/port-upd-main/index.html#home
+Deployed link - https://myportfolio-git-main-chaithanyakrishna2003.vercel.app/
